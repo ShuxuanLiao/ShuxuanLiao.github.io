@@ -2,7 +2,7 @@
 title: "Fresh sodium storage of FeCoNi alloys confined in biomass carbon revealed by operando magnetometry"
 collection: publications
 category: others
-permalink: /publication/2025-08-xx-paper-title-number-6
+permalink: /publication/2024-08-xx-paper-title-number-6
 excerpt: 'This paper is about'
 date: 2025-08-xx
 venue: 'Energy Storage Materials'
