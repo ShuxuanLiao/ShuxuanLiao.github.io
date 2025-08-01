@@ -2,7 +2,7 @@
 title: "Spatially confined transition metals boost high initial coulombic efficiency in alloy anodes"
 collection: publications
 category: others
-permalink: /publication/2024-181-22-paper-title-number-8
+permalink: /publication/2024-11-22-paper-title-number-8
 excerpt: 'This paper is about'
 date: 2024-11-22
 venue: 'Chemical Science'
