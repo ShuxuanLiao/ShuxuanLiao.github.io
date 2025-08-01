@@ -1,6 +1,6 @@
 ---
 title: "Decoding the space charge storage in solid electrolyte interphase via operando magnetometry"
-collection: publications
+collection: publications(first author)
 category: manuscripts
 permalink: /publication/2025-07-19-paper-title-number-2
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
