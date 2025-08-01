@@ -3,7 +3,7 @@ title: "In situ magnetometry study on the origin of anomalously capacity in tran
 collection: publications
 category: others
 permalink: /publication/2023-07-01-paper-title-number-7
-excerpt: 'This paper is about '
+excerpt: 'This paper is about ' 
 date: 2023-07-01
 venue: 'ChemPhysMater'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
