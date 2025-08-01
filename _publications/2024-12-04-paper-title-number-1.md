@@ -1,6 +1,6 @@
 ---
 title: "From spent lithium-ion batteries to high-performance supercapacitors: enabling universal gradient recycling via spin capacitance"
-collection: publications(first author)
+collection: publications
 category: first_author
 permalink: /publication/2024-12-04-paper-title-number-1
 excerpt: 'The study presents a universally applicable and high-value recycling approach that directly transforms spent lithium-ion battery cathodes into high-performance supercapacitor electrodes, without the need for complete material reconstruction. This strategy addresses both environmental and economic concerns in battery recycling.'
