@@ -2,9 +2,9 @@
 title: "Fresh sodium storage of FeCoNi alloys confined in biomass carbon revealed by operando magnetometry"
 collection: publications
 category: others
-permalink: /publication/2024-08-xx-paper-title-number-6
+permalink: /publication/2024-08-01-paper-title-number-6
 excerpt: 'This paper is about'
-date: 2025-08-xx
+date: 2024-08-01
 venue: 'Energy Storage Materials'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'J. Chen, X. Guo, S. Liao, et al. Fresh sodium storage of FeCoNi alloys confined in biomass carbon revealed by operando magnetometry, Energy Storage Materials, 2024, 71, 103600.'
