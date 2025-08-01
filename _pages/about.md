@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I received my B.Eng. in Optoelectronic Information Science and Engineering from Nanjing Tech University and my M.Eng. in Materials Engineering from Qingdao University, where I conducted research under the supervision of Prof. Qiang Li.
+Driven by a strong interest in interdisciplinary research, I have built experience across several domains. As an undergraduate, I worked on flexible optoelectronic devices and cloud-based control systems for smart home applications. During my master’s studies, my research centered on magneto-electrochemistry, where I employed magnetic techniques to investigate energy storage mechanisms in lithium/sodium-ion batteries.
+With a multidisciplinary background bridging optoelectronics, microelectronics, and magneto-electrochemistry, I am particularly interested in exploring microelectronics-related directions such as semiconductor devices, flexible electronics, and energy storage materials. My long-term goal is to develop novel functional devices enabled by multi-physics coupling mechanisms.
 
 A data-driven personal website
 ======
