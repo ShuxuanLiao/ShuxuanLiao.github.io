@@ -2,9 +2,9 @@
 title: "In situ magnetometry study on the origin of anomalously capacity in transition metal sulfides"
 collection: publications
 category: others
-permalink: /publication/2023-07-xx-paper-title-number-7
+permalink: /publication/2023-07-01-paper-title-number-7
 excerpt: 'This paper is about '
-date: 2023-07-xx
+date: 2023-07-01
 venue: 'ChemPhysMater'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Y. Liu, Y. Han, S. Liao, et al. In situ magnetometry study on the origin of anomalously capacity in transition metal sulfides, ChemPhysMater, 2023, 2, 246-252.'
