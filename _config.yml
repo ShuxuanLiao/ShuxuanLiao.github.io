@@ -355,3 +355,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+publication_category:
+  first_author:
+    title: "Journal Articles (First-author)"
+  others:
+    title: "Journal Articles (Co-author)"
