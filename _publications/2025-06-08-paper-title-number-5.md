@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "From spent lithium-ion batteries to high-performance supercapacitors: enabling universal gradient recycling via spin capacitance"
 collection: publications
-category: conferences
+category: Journals
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17
