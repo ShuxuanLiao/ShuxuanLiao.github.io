@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*Qingdao University                                                       Sep 2022 – Jun 2025
+Materials Engineering
+•	GPA: 3.83/4.0
+•	Core Courses: Material structures and properties, Material synthesis and preparation, Modern analysis technique for materials, New energy materials and devices
+*Nanjing Tech University                                                   Sep 2017 – Jun 2021
+Optoelectronic Information Science and Engineering
+•	GPA: 3.57/4.0
+•	Core Courses: Electromagnetism, Analog electronics, Digital fundamentals, Electrodynamics, Quantum mechanics, Solid state physics, Optoelectronic technology 
 
 Work experience
 ======
