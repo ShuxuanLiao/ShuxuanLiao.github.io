@@ -13,6 +13,10 @@ With a multidisciplinary background bridging optoelectronics, microelectronics, 
 
 ---
 
-![WeChat QR Code](/images/lsx_wechat.png)
+<p align="center"><b>WeChat</b></p>
+<p align="center">
+  <img src="/images/lsx_wechat.png" alt="WeChat QR Code" width="200">
+</p>
+
 
 
