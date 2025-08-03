@@ -12,14 +12,15 @@ redirect_from:
 # Education
 
 * **Qingdao University**
-  *Materials Engineering (Sep 2022 – Jun 2025)
-  *GPA: 3.83/4.0
-  *Core Courses: Material structures and properties, Material synthesis and preparation, Modern analysis technique for materials, New energy materials and devices
+  Materials Engineering (Sep 2022 – Jun 2025)
+  GPA: 3.83/4.0
+  Core Courses: Material structures and properties, Material synthesis and preparation, Modern analysis technique for materials, New energy materials and devices
 
 * **Nanjing Tech University**
-  *Optoelectronic Information Science and Engineering (Sep 2017 – Jun 2021)
-  *GPA: 3.57/4.0
-  *Core Courses: Electromagnetism, Analog electronics, Digital fundamentals, Electrodynamics, Quantum mechanics, Solid state physics, Optoelectronic technology
+  Optoelectronic Information Science and Engineering (Sep 2017 – Jun 2021)
+  GPA: 3.57/4.0
+  Core Courses: Electromagnetism, Analog electronics, Digital fundamentals, Electrodynamics, Quantum mechanics, Solid state physics, Optoelectronic technology
+
 
 # Publications
 
