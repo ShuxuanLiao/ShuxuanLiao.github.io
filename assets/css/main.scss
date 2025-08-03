@@ -41,7 +41,16 @@
     "vendor/font-awesome/brands"
 ;
 
+/* ============================
+   Custom overrides for About Me
+   ============================ */
+
+/* 全局段落两端对齐（适用于 About Me、CV、Publications 等正文内容） */
 .page__content p {
   text-align: justify;
   text-justify: inter-word;
+  line-height: 1.6;
+  margin-bottom: 0.8em;
 }
+
+
