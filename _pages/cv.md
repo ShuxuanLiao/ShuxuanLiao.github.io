@@ -6,7 +6,7 @@ permalink: /cv/
 author\_profile: true
 redirect\_from:
 
-* /resume
+* "/resume"
 
 ---
 
@@ -26,19 +26,19 @@ redirect\_from:
 
 # Publications
 
-\======
-
-<ul>{% for post in site.publications reversed %}
+<ul>
+{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}
+</ul>
 
 # Talks
 
-\======
-
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html  %}
-{% endfor %}</ul>
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
 
 # Patent
 
