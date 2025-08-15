@@ -3,7 +3,7 @@ title: "Unlocking electrochemical potential: amorphous NaFePO4 as a high-capacit
 collection: publications
 category: others
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+#excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-03-07
 venue: 'Science China Materials'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
